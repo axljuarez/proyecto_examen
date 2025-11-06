@@ -1,0 +1,21 @@
+# Python / Flask
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+.env
+.venv/
+venv/
+instance/
+*.sqlite3
+*.db
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs / uploads temporales
+*.log
+uploads/
+tmp/
